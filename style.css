@@ -1,0 +1,40 @@
+html {
+    color: gold;
+    text-align: center;
+
+}
+body{
+    background-color: #516774;
+    color: #99b7c4;
+    text-align: center;
+}
+
+.img{
+    padding: 5px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.titulo {
+    font-size: 8em;
+    text-align: center;
+    background-color: #807a7a;
+    padding: 50px 10px;
+    margin: 0;
+}
+
+.texto {
+    font-size: large;
+    text-align: center;
+}
+.texto2 {
+    text-align: center;
+    font-size: large;
+
+}
